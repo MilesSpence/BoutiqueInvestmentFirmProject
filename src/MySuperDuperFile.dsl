@@ -1,0 +1,1 @@
+(120 AMZN shares buy at max 70), (50 GOOGL shares buy at max 60), (100 IBM shares buy at max 45), (20 GOOGL shares sell at min 40), (30 ORCL shares sell at min 25) for account Hokie123.
