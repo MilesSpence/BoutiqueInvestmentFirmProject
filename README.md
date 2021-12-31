@@ -52,3 +52,5 @@ Each SQL statement should be a single line.
 ### Part B
 
 Enhance the DSL with the functionality to cancel all trade requests for a given stock made by the account holder. First, change the DSL grammar and the input JSON format; then modify your test data generator to reflect the changes. Determine which SQL statement should be generated to realize the cancel trade requests and add this functionality to your implementation.
+
+### Multiple JSON files are included for thorough testing. Sample output .dsl and .sql files are also included.
